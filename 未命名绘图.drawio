@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-01T07:52:03.776Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ch3U_gWaazCd4hAndkEM" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-01T08:19:07.792Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="WoUEwye3S0_-fYhYh9wY" version="22.0.0" type="github">
   <diagram name="第 1 页" id="ldAg634ZrCVb943Bb9Ud">
-    <mxGraphModel dx="1026" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="855" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,6 +24,27 @@
         </mxCell>
         <mxCell id="oTkSlHDaPdULFXYLNbwo-7" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;this.b=3;&lt;br&gt;super.b=2;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="650" y="280" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oTkSlHDaPdULFXYLNbwo-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="30" y="570" width="510" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="oTkSlHDaPdULFXYLNbwo-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="625" width="150" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="oTkSlHDaPdULFXYLNbwo-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="314" y="625" width="150" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="oTkSlHDaPdULFXYLNbwo-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;子类C内存图&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="580" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oTkSlHDaPdULFXYLNbwo-12" value="父类B属性空间-super" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="640" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oTkSlHDaPdULFXYLNbwo-13" value="子类C属性空间-this" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="344" y="640" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oTkSlHDaPdULFXYLNbwo-14" value="父类A属性空间-super" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
